@@ -10,8 +10,10 @@ a - activate insert mode
 A - activate insert mode (on end line)
 
 ctrl+c or esc - back no normal mode
-
-e - to jump on words
+	
+w - to jump on words
+e - to jump on end of the word
+b - to jump back on words
 gg - to jump on the start
 GG - to jump on the end
 
@@ -19,4 +21,14 @@ number+gg - jump to the line
 
 o - create new line
 dd - delete this hole line
+u - undo
+dw - delete word
 
+yy - copy
+yw - copy word
+p - paste 
+
+$ - to go end of line
+0 - to go start of line
+
+some test lorem input word 
