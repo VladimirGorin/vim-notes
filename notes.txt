@@ -1,0 +1,22 @@
+h - to move left
+j - to move up
+k - to move down
+g - to move right
+
+i - activate insert mode
+I - activate insert mode (on start line)
+
+a - activate insert mode
+A - activate insert mode (on end line)
+
+ctrl+c or esc - back no normal mode
+
+e - to jump on words
+gg - to jump on the start
+GG - to jump on the end
+
+number+gg - jump to the line
+
+o - create new line
+dd - delete this hole line
+
