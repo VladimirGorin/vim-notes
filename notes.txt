@@ -19,7 +19,9 @@ GG - to jump on the end
 
 number+gg - jump to the line
 
-o - create new line
+o - create new line after cursor
+O - create new line before cursor
+
 dd - delete this hole line
 u - undo
 dw - delete word
@@ -31,4 +33,41 @@ p - paste
 $ - to go end of line
 0 - to go start of line
 
-some test lorem input word 
+
+modes: 
+inster mode (i) = for writing
+normal mode (ctrl+c) = for commands
+visual mpde (v) = for selecting?
+replacing mode (shift+r) = for replacing hole line
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello  is of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took r galley of type and scrambleg it to make a type specimen book.  
+
+
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took r galley of type and scrambleg it to make a type specimen book.  
+
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took r galley of type and scrambleg it to make a type specimen book.  
+
+
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took r galley of type and scrambleg it to make a type specimen book.  
+
+
+
+
+It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
