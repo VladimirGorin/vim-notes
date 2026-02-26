@@ -35,14 +35,11 @@ $ - to go end of line
 
 
 modes: 
-inster mode (i) = for writing
+insert mode (i) = for writing
 normal mode (ctrl+c) = for commands
-visual mpde (v) = for selecting?
+visual mode (v) = for selecting?
 replacing mode (shift+r) = for replacing hole line
-
-
-
-
+terminal mode (ctrl+/) = for open terminal
 
 
 
